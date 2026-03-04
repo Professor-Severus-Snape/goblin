@@ -1,3 +1,5 @@
+![CI](https://github.com/professor-severus-snape/goblin/actions/workflows/webpack_ci-cd.yml/badge.svg)
+
 # Игра «поймай гоблина»
 
 Браузерная мини-игра на чистом JavaScript. 
@@ -29,3 +31,7 @@
 - Webpack
 - Babel
 - ESLint (Airbnb config)
+
+## CI/CD:
+- GitHub Actions (настройка CI/CD пайплайна)
+- GitHub Pages (хостинг и деплой)
