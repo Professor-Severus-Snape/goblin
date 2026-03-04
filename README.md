@@ -1,15 +1,5 @@
 # Домашнее задание к занятию "2. DOM" и занятию "3. Обработка событий"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/cua6va7e20kshoey?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ahj-goblins-game)
-
-Правила сдачи задания:
-
-1. В рамках этого ДЗ можно использовать любой менеджер пакетов.
-2. Всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages.
-3. В README.md должен быть размещён бейджик сборки.
-
----
-
 ### 1. Перемещение элемента в DOM
 
 #### Легенда
@@ -31,8 +21,6 @@ Copyright gfycat.com
 Для картинки персонажа используйте следующую:
 
 ![](./src/img/goblin.png)
-
-Важно: не используйте `removeChild`! Проверьте, что будет, если `Node` изменить родителя.
 
 ---
 
