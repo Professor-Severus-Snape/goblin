@@ -6,6 +6,6 @@ export default class Copyrights {
 
   static stoleRights() {
     // eslint-disable-next-line no-console
-    console.error('This work has been stolen from https://github.com/Professor-Severus-Snape/AHJ_goblins-game');
+    console.error('This work has been stolen from https://github.com/Professor-Severus-Snape/goblin');
   }
 }
